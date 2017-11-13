@@ -1,0 +1,79 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
+
+
+
+body {
+  font-family: Roboto Slab;
+  background: black;
+  color: white;
+  height: 100%;
+  width: 100%;
+}
+
+.jumbotron {
+  background-image: url("http://alqueria.cl/bg/images/image1.jpg");
+  background-position: 0px, 100px;
+  margin: 0;
+}
+
+.left-title {
+  float: left;
+}
+
+.right-title {
+  float: right;
+}
+
+.white-text {
+  color: white !important;
+}
+
+.skills-box {
+  background-color: #666;
+  padding-top: 1px;
+  color: white;
+}
+
+.contact-box {
+  background-color: #666;
+  color: white;
+  padding-top: 10px;
+}
+
+.content-box {
+  margin-top: -40px;
+  padding-top: 40px;
+  background-color: #766;
+  padding-bottom: 30px
+}
+
+a:link {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+.thumbnail {
+  cursor: pointer;
+}
+
+.footer-img {
+  max-width: 50px;
+  max-height: 50px;
+}
+
+#portfolio {
+  padding-top: 60px;
+  margin-top: -40px;
+  margin-bottom: 40px;
+}
+
+#modal-link {
+  color: darkblue !important;
+}
